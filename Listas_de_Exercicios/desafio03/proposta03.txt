@@ -1,0 +1,5 @@
+ler dois numeros e calcular a soma entre eles. Introdução aos tipos primitivos
+INT p/ inteiro ex: 3, -4, 8584
+FlOAT p/ numeros reais ou de ponto flutuante ex: 4.3, -0.75 OBS: usa ponto ao inves de virgula para identificar o valor
+BOOl p/ valoreslogicos ou booleanos ex: True ou False OBS: primeira leta sempre maiuscula
+STR p/ Caracteres ou strings ex: 'ana' , '7.8', '' OBS: usa aaspas simpes ou duplas 
